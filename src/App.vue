@@ -1,32 +1,72 @@
 <template>
-  <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view />
-  </div>
+  <v-app>
+    <v-navigation-drawer v-model="drawer" app>
+      <v-list nav dense>
+        <v-list-item-group active-class="primary--text">
+          <v-list-item v-on:click="routeTo('/')">
+            <v-list-item-icon>
+              <v-icon>mdi-home</v-icon>
+            </v-list-item-icon>
+            <v-list-item-title>Home</v-list-item-title>
+          </v-list-item>
+          <v-list-item v-on:click="routeTo('/aboutme')">
+            <v-list-item-icon>
+              <v-icon>mdi-account</v-icon>
+            </v-list-item-icon>
+            <v-list-item-title>About Me</v-list-item-title>
+          </v-list-item>
+          <v-list-item v-on:click="routeTo('/experience')">
+            <v-list-item-icon>
+              <v-icon>mdi-clipboard-text</v-icon>
+            </v-list-item-icon>
+            <v-list-item-title>Experience</v-list-item-title>
+          </v-list-item>
+          <v-list-item v-on:click="routeTo('/interests')">
+            <v-list-item-icon>
+              <v-icon>mdi-image-filter-vintage</v-icon>
+            </v-list-item-icon>
+            <v-list-item-title>Interests</v-list-item-title>
+          </v-list-item>
+          <v-list-item v-on:click="routeTo('/contactme')">
+            <v-list-item-icon>
+              <v-icon>mdi-email-outline</v-icon>
+            </v-list-item-icon>
+            <v-list-item-title>Contact Me</v-list-item-title>
+          </v-list-item>
+        </v-list-item-group>
+      </v-list>
+    </v-navigation-drawer>
+
+    <v-app-bar app>
+      <v-app-bar-nav-icon @click="drawer = true"></v-app-bar-nav-icon>
+    </v-app-bar>
+
+    <!-- Sizes your content based upon application components -->
+    <v-main>
+      <!-- Provides the application the proper gutter -->
+      <v-container fluid>
+        <!-- If using vue-router -->
+        <router-view></router-view>
+      </v-container>
+    </v-main>
+
+    <v-footer app>
+      <!-- -->
+    </v-footer>
+  </v-app>
 </template>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
+<script>
+export default {
+  name: 'App',
 
-#nav {
-  padding: 30px;
+  data: () => ({
+    drawer: false,
+  }),
+  methods: {
+    routeTo(newPath) {
+      this.$router.push({ path: newPath })
+    },
+  },
 }
-
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-#nav a.router-link-exact-active {
-  color: #42b983;
-}
-</style>
+</script>
