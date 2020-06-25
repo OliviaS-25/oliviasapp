@@ -14,15 +14,15 @@
             <br />•	Using Python and JavaScript to create and enhance a mapping software to provide an interactive analytic tool used to display solutions and make critical decisions
         </p>
         <h3 class="text-decoration-underline">
-          Lyvo, San Francisco Bay Area
+          Lyvo, San Francisco, Bay Area
         </h3>
         <h4>June 2020 - Present</h4>
         <p>
-            <br />•	Selected to attend a 4 week virtual Software Engineering bootcamp covering Web Application (vue,js, react,js, HTML/CSS), and Mobile Application (React Native, APIs), and Back End Development (Google Cloud Platform,node.js, Firebase)
+            <br />•	Selected to attend a 4 week virtual Software Engineering bootcamp covering Web Application (vue.js, react.js, HTML/CSS), Mobile <br />Application (React Native, APIs), and Back End Development (Google Cloud Platform, node.js, Firebase)
             <br />•	Practicing Leet Code problems, participated in mock interviews, and resume workshops
         </p>
         <h3 class="text-decoration-underline">
-          Jamaica Hospital, Jamaica New York 
+          Jamaica Hospital, Jamaica, New York 
         </h3>
         <h4>June 2018 - August 2018</h4>
         <p>
@@ -56,9 +56,9 @@
         </h3>
         <h4>Fall 2019 - Winter 2020</h4>
         <p>
-            <br/>•Coordinated and led practice for 15 basketball team members
-            <br/>•Set goals to decrease the number of turnovers made and increase the team’s chances of winning
-            <br/>•Organized team events on the weekend to allow the team bond and improve the overall dynamic of the team
+            <br/>• Coordinated and led practice for 15 basketball team members
+            <br/>• Set goals to decrease the number of turnovers made and increase the team’s chances of winning
+            <br/>• Organized team events on the weekend to allow the team bond and improve the overall dynamic of the team
         </p>
       </v-col>
     </v-row>
