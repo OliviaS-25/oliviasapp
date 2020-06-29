@@ -5,7 +5,7 @@
       class="white--text align end"
       height="600px"
       weight="1250px"
-      src="@/assets/WebsiteCover3.png"
+      src="@/assets/WebsiteCover4.png"
     >
     </v-img>
   </div>

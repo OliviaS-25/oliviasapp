@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-navigation-drawer v-model="drawer" app>
+    <v-navigation-drawer v-model="drawer" class= "light-blue lighten-5" app>
       <v-list nav dense>
         <v-list-item-group active-class="primary--text">
           <v-list-item v-on:click="routeTo('/')">
@@ -37,8 +37,8 @@
       </v-list>
     </v-navigation-drawer>
 
-    <v-app-bar app>
-      <v-app-bar-nav-icon @click="drawer = true"></v-app-bar-nav-icon>
+    <v-app-bar app class= "light-blue lighten-2">
+      <v-app-bar-nav-icon @click="drawer = true "></v-app-bar-nav-icon>
     </v-app-bar>
 
     <!-- Sizes your content based upon application components -->

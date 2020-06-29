@@ -23,7 +23,7 @@
         class="pt-6"
         style="position: relative;"
       >
-        <h3 class="display-1 font-weight-light orange--text mb-2">{{ item.title }}</h3>
+        <h3 class="display-1 font-weight-light light-blue--text mb-2">{{ item.title }}</h3>
         <div class="font-weight-light title mb-2"> {{ item.subtext }}<br>
           
         </div>
@@ -39,7 +39,7 @@
     data: () => ({
       items: [
         {
-            title: 'Basketball',
+            title: 'Playing Basketball',
             subtext: 'I’ve been playing for over 10 years and have been apart of various different teams throughout the years.I find that it is great way of being social while being able to workout.',
             img: 'https://www.pngitem.com/pimgs/m/3-32259_png-basketball-black-and-white-basketball-icon-png.png',
         },
@@ -50,7 +50,7 @@
         },
         {
             title: 'Investing',
-            subtext:'I also enjoy researching and learning how to invest in stock market to reach long term goals. ',
+            subtext:'I also enjoy researching and learning how to invest in the stock market to reach my long term financial goals. ',
           img: 'https://cdn0.iconfinder.com/data/icons/stock-investment-2/66/29-512.png',
         },
       ],

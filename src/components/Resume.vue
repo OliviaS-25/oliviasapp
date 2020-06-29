@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="pink lighten-4 text-center">
+    <div class="light-blue lighten-4 text-center">
     <span class="black--text">Work</span>
   </div>
     <v-row class= "text-left">
@@ -31,7 +31,7 @@
             <br />•	Helped patients with mobility grooming toileting and dressing and answered patient call buttons
         </p>
         
-    <div class="pink lighten-4 text-center">
+    <div class="light-blue lighten-4 text-center">
     <span class="black--text">Leadership</span> </div>
         <h3 class="text-decoration-underline">
           National Society of Black Engineers Executive Board Programs Chair
