@@ -11,7 +11,7 @@
     <v-spacer></v-spacer>
     <p>
       I am an ambitious person who has developed a responsible approach to any task I undertake. 
-      I like working with others to achieve goals in a timely and accurate manner. I’m always eager to learn as many new things as possible.
+      I enjoy working with others to achieve goals in a timely and accurate manner. I’m always eager to learn as many new things as possible!
     </p>
     <v-container fluid>
       <v-row justify="center" align=middle>

@@ -40,12 +40,12 @@
       items: [
         {
             title: 'Playing Basketball',
-            subtext: 'I’ve been playing for over 10 years and have been apart of various different teams throughout the years.I find that it is great way of being social while being able to workout.',
+            subtext: 'I’ve been playing for over 10 years and have been apart of various different teams throughout the years.I find that it is great way of being meeting new people and making new friends while working out.',
             img: 'https://www.pngitem.com/pimgs/m/3-32259_png-basketball-black-and-white-basketball-icon-png.png',
         },
         {
             title: 'Listening to Music',
-            subtext:'Recently I’ve been binging on Hip-Hop and R&B classics as well as finding and listening to new up and coming artists.',
+            subtext:'Recently I’ve been binging on Hip-Hop and R&B classics, as well as finding and listening to new up and coming artists.',
             img: 'https://png.pngtree.com/png-vector/20190605/ourlarge/pngtree-headphones-icon-png-image_1477434.jpg'
         },
         {

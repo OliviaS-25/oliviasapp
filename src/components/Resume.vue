@@ -38,9 +38,9 @@
         </h3>
         <h4>March 2020 - Present</h4>
         <p>
-            <br />•	Helping to organize and facilitate general meetings. 
-            <br />•	Coordinating all social and service projects.
-            <br />• Coordinating interactions with alumni and other technical and Black organizations.
+            <br />•	Helping to organize and facilitate general meetings 
+            <br />•	Coordinating all social and service projects
+            <br />• Coordinating interactions with alumni and other technical and Black organizations
         </p>
         <h3 class="text-decoration-underline">
           National Society of Black Engineers Junior Executive Board Treasurer
@@ -57,7 +57,7 @@
         <h4>Fall 2019 - Winter 2020</h4>
         <p>
             <br/>• Coordinated and led practice for 15 basketball team members
-            <br/>• Set goals to decrease the number of turnovers made and increase the team’s chances of winning
+            <br/>• Set goals to decrease the number of turnovers made and increase the team's chances of winning
             <br/>• Organized team events on the weekend to allow the team bond and improve the overall dynamic of the team
         </p>
       </v-col>
