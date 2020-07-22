@@ -4,9 +4,7 @@
     <v-spacer></v-spacer>
     <v-spacer></v-spacer>
     <p>
-      My name is Olivia Sackitey. I was born and raised in Queens, New York and have always
-      had a strong interests in STEM related subjects. Currently, I am a rising sophomore 
-      at Northwestern University majoring in Computer Science.
+      My name is Olivia Sackitey. I was born and raised in Queens, New York, and have always had a strong interest in STEM-related subjects and music. Currently, I am a rising sophomore at Northwestern University and I'm majoring in Computer Science.
     </p>
     <v-spacer></v-spacer>
     <p>

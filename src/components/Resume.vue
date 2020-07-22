@@ -14,12 +14,11 @@
             <br />•	Using Python and JavaScript to create and enhance a mapping software to provide an interactive analytic tool used to display solutions and make critical decisions
         </p>
         <h3 class="text-decoration-underline">
-          Lyvo, San Francisco, Bay Area
+          Virtual Software Engineering Boot Camp 
         </h3>
         <h4>June 2020 - Present</h4>
         <p>
             <br />•	Selected to attend a 4 week virtual Software Engineering bootcamp covering Web Application (vue.js, react.js, HTML/CSS), Mobile <br />Application (React Native, APIs), and Back End Development (Google Cloud Platform, node.js, Firebase)
-            <br />•	Practicing Leet Code problems, participated in mock interviews, and resume workshops
         </p>
         <h3 class="text-decoration-underline">
           Jamaica Hospital, Jamaica, New York 
